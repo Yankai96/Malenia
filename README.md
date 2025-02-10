@@ -6,4 +6,4 @@
 
 ## Coming Soon!
 
-We will open-source our code, pre-trained model weights, as well as all disease description annotations on publicly available datasets.
+We will open-source our code, pre-trained model weights, as well as all disease attribute description annotations on publicly available datasets.
